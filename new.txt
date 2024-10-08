@@ -1,2 +1,2 @@
 This is another file from another device.
-Completed
+Completed.
